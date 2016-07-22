@@ -1,0 +1,5 @@
+name: factorapp
+account: wordcloud
+bundleId: 50544
+url: http://wordcloud.shinyapps.io/factorapp
+server: shinyapps.io
